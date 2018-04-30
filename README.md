@@ -1,3 +1,4 @@
 # Docker Experimental
 
-The default `docker` docker image with experimental features enabled.
+The default `docker` Docker image with experimental features enabled and
+git installed.
